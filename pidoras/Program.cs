@@ -42,19 +42,17 @@ public class Program
         }
         Console.WriteLine(s);*/
 
-        int i = 99;
-        double s = 0;
-        double p = 0;
-        double n = 0;
-        
-        while (i > 0)
-        {
-            p = n + Math.Sqrt(i);
-            n = i;
-            s = s + p;
-
-            i = i - 3;
-        }
-        Console.WriteLine(s);
+        // int i = 99;
+        // double s = 0;
+        // double p = 0;
+        // double n = 0;
+        //
+        // while (i > 0)
+        // {
+        //     p = Math.Sqrt(p + i);
+        //     s = s + p;
+        //     i = i - 3;
+        // }
+        // Console.WriteLine(s);
     }
 }
