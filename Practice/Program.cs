@@ -1,12 +1,12 @@
 ﻿using System;
-using pidoras;
+using practice;
 
 public class Program
 {
     static void Main(string[] args)
     {
-        // Call a method down below
-        exercises.week();
+        // Вызвать нужный метод
+        exercise.ex2();
     }
     
         static double eq_with_expon()

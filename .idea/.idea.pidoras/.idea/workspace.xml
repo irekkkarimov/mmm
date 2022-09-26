@@ -4,7 +4,18 @@
     <projectFile>pidoras/pidoras.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c67fe02-9e6e-4e24-bb6e-ab13713dd3f1" name="Changes" comment="renamed" />
+    <list default="true" id="2c67fe02-9e6e-4e24-bb6e-ab13713dd3f1" name="Changes" comment="d">
+      <change afterPath="$PROJECT_DIR$/Practice/exercise.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/lesson.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.pidoras/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pidoras/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/ref/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/ref/pratice.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/refint/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/refint/pratice.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,15 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="pidoras" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -74,7 +86,7 @@
       <workItem from="1663698311410" duration="4091000" />
       <workItem from="1664185931810" duration="1493000" />
       <workItem from="1664187473460" duration="1181000" />
-      <workItem from="1664190134422" duration="362000" />
+      <workItem from="1664190134422" duration="4329000" />
     </task>
     <task id="LOCAL-00001" summary="lalalala">
       <created>1663668186473</created>
@@ -146,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664190228905</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="d">
+      <created>1664190518805</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664190518805</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +195,7 @@
     <MESSAGE value="class with methods" />
     <MESSAGE value="fixed methods" />
     <MESSAGE value="renamed" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed" />
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
   </component>
 </project>
