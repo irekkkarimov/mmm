@@ -1,11 +1,12 @@
 ﻿using System;
+using pidoras;
 
 public class Program
 {
     static void Main(string[] args)
     {
         // Call a method down below
-        
+        exercises.week();
     }
     
         static double eq_with_expon()
