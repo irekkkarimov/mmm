@@ -4,17 +4,12 @@
     <projectFile>pidoras/pidoras.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c67fe02-9e6e-4e24-bb6e-ab13713dd3f1" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/Practice/exercise.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/lesson.cs" afterDir="false" />
+    <list default="true" id="2c67fe02-9e6e-4e24-bb6e-ab13713dd3f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.pidoras/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pidoras/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/bin/Debug/net6.0/pratice.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/pratice.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/ref/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/ref/pratice.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/refint/pratice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net6.0/refint/pratice.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +81,7 @@
       <workItem from="1663698311410" duration="4091000" />
       <workItem from="1664185931810" duration="1493000" />
       <workItem from="1664187473460" duration="1181000" />
-      <workItem from="1664190134422" duration="4329000" />
+      <workItem from="1664190134422" duration="4788000" />
     </task>
     <task id="LOCAL-00001" summary="lalalala">
       <created>1663668186473</created>
@@ -165,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664190518805</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ex2">
+      <created>1664194759933</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664194759933</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +198,7 @@
     <MESSAGE value="fixed methods" />
     <MESSAGE value="renamed" />
     <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <MESSAGE value="ex2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2" />
   </component>
 </project>

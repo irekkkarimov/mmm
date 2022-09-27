@@ -1,4 +1,4 @@
-namespace pidoras;
+namespace practice;
 
 public class exercises
 {
@@ -34,4 +34,13 @@ public class exercises
         }
         
     }
+
+
+    
+    public static string GetGreetingMessage(string name, double salary)
+    {
+        string result = $"Hello, {name}, your salary is {salary}";
+        return result;
+    }
+    
 }
