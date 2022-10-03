@@ -1,13 +1,16 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 using practice;
-using static Program;
 
 public class Program
 {
-    static void Main(string[] args)
+    public static void Main()
     {
-        // Вызвать нужный метод
-        SD();
+        double x, a, eps;
+        x = double.Parse(Console.ReadLine());
+        a = double.Parse(Console.ReadLine());
+        eps = double.Parse(Console.ReadLine());
+        Console.WriteLine(Ex111.Sum(x, a, eps));
     }
 
     static double eq_with_expon()
