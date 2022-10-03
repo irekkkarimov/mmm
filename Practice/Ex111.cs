@@ -6,20 +6,7 @@ public class Ex111 {
         double result = ((Math.Pow(-1 + a, k) * x * Math.Pow((Math.Log(x, 10)), k)) / fact);
         return result;
     }
-
-    // public static double Fact(int i)
-    // {
-    //     double result = 1;
-    //     if (i > 0)
-    //     {
-    //         for (int e = 1; e <= i; e++)
-    //         {
-    //             result = result * e;
-    //         }
-    //     }
-    //     return result;
-    // }
-
+    
     public static double Sum(double x, double a, double eps)
     {
         double result = 0;
