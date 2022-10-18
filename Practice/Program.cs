@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.Design;
 using System.Diagnostics.CodeAnalysis;
 using practice;
 
@@ -6,11 +7,30 @@ public class Program
 {
     public static void Main()
     {
-        double x, a, eps;
-        x = double.Parse(Console.ReadLine());
-        a = double.Parse(Console.ReadLine());
-        eps = double.Parse(Console.ReadLine());
-        Console.WriteLine(Ex111.Sum(x, a, eps));
+        Console.WriteLine(Ex111.Solution(7, 6, 526));
+        // int[] arr = new int[10];
+        // Random r = new Random();
+        //
+        // for (int i = 0; i < 10; i++)
+        // {
+        //     arr[i] = r.Next(-100, 101);
+        // }
+        //
+        // int sum = 0, kolPol = 0, max = -1111;
+        // for (int i = 0; i < 10; i++)
+        // {
+        //     if (arr[i] > max)
+        //     {
+        //         max = Math.Max(arr[i], max);
+        //     }
+        //     sum += arr[i];
+        //     if (arr[i] > 0)
+        //     {
+        //         kolPol++;
+        //     }
+
+        //     int[] pidoras = new int[]{0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+        //     int[] a = triangle.GetPoweredArray(pidoras, 2);
     }
 
     static double eq_with_expon()
@@ -89,7 +109,7 @@ public class Program
     {
         int a = int.Parse(Console.ReadLine());
         int b = int.Parse(Console.ReadLine());
-        for (int i = Math.Max(a, b); i >= 1; i--)
+        for (int i = Math.Min(a, b); i >= 1; i--)
         {
             int result = 0;
             if ((a % i == 0) && (b % i == 0))
@@ -105,13 +125,16 @@ public class Program
         int a = int.Parse(Console.ReadLine());
         int b = int.Parse(Console.ReadLine());
 
-        for (int i = 2; i <= Math.Max(a, b); i++)
+        int i = Math.Max(a, b);
+        while (true)
         {
-            if ((a % i == 0) && (b % i == 0))
+            if ((i % a == 0) && (i % b == 0))
             {
                 Console.WriteLine($"The LCM is {i}");
                 break;
             }
+
+            i++;
         }
     }
 
